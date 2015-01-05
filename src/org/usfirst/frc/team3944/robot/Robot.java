@@ -14,7 +14,7 @@ public class Robot extends SampleRobot {
 	
     RobotDrive robotDrive;
     Joystick stick;
-
+    // Test change.
     // Channels for the wheels
     final int frontLeftChannel	= 2;
     final int rearLeftChannel	= 3;
