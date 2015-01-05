@@ -14,7 +14,7 @@ public class Robot extends SampleRobot {
 	
     RobotDrive robotDrive;
     Joystick stick;
-    // I deleted some stuff on this test branch.
+    // I deleted some stuff on this test branch. Add some stuff.
     // Channels for the wheels
     final int frontLeftChannel	= 2;
     final int rearLeftChannel	= 3;
